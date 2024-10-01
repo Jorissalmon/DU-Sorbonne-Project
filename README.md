@@ -22,3 +22,9 @@ Ce dépôt utilise des **sous-modules Git** pour organiser les différents proje
 
 Pour cloner ce dépôt avec tous les sous-modules, exécutez la commande suivante :
 git clone --recurse-submodules https://github.com/Jorissalmon/DU-Sorbonne-Project.git
+
+##### Ajout submodule
+git submodule add https://github.com/Jorissalmon/DU_Nouveau_Projet.git DU_Nouveau_Projet
+git add .
+git commit -m "Ajout du nouveau projet DU_Nouveau_Projet"
+git push origin main
