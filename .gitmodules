@@ -1,0 +1,27 @@
+[submodule "DU_Data_Management"]
+	path = DU_Data_Management
+	url = https://github.com/Jorissalmon/DU_Data_Management.git
+[submodule "DU_nlp"]
+	path = DU_nlp
+	url = https://github.com/Jorissalmon/DU_nlp.git
+[submodule "DU_Statistiques"]
+	path = DU_Statistiques
+	url = https://github.com/Jorissalmon/DU_Statistiques.git
+[submodule "DU_Ml_Ops"]
+	path = DU_Ml_Ops
+	url = https://github.com/Jorissalmon/DU_Ml_Ops.git
+[submodule "DU_Machine_Learning"]
+	path = DU_Machine_Learning
+	url = https://github.com/Jorissalmon/DU_Machine_Learning.git
+[submodule "DU_NEO4J"]
+	path = DU_NEO4J
+	url = https://github.com/Jorissalmon/DU_NEO4J.git
+[submodule "DU_Python"]
+	path = DU_Python
+	url = https://github.com/Jorissalmon/DU_Python.git
+[submodule "DU_Spark"]
+	path = DU_Spark
+	url = https://github.com/Jorissalmon/DU_Spark.git
+[submodule "DU_SQL"]
+	path = DU_SQL
+	url = https://github.com/Jorissalmon/DU_SQL.git
